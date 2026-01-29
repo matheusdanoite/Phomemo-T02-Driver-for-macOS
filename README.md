@@ -21,8 +21,8 @@ This project allows you to print to your Phomemo T02 directly from macOS without
 
 1. **Clone or Download this repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/phomemo-t02-mac.git
-   cd phomemo-t02-mac
+   git clone https://github.com/matheusdanoite/Phomemo-T02-Driver-for-macOS.git
+   cd Phomemo-T02-Driver-for-macOS
    ```
 
 2. **Set up Python Environment**:
